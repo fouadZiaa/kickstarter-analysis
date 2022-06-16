@@ -5,5 +5,17 @@ The countifs() was a bit challengng to apply, but once the syntax of the formula
 
 ## Results - Theater Campaigns
 
+### Outcomes Based on Launch Dates
 It was observed that most campaigns were launched over the summer months, and start of the year and end of the year were the times with the least campaigns launched.
-![Picture of Theater Outcomes vs Launch Date chart](
+
+
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/45398344/174147910-8ad6db33-b98f-49c7-af3d-eb9d03cac6fa.png)
+
+### Outcomes Based on Goals
+We concluded that no capmaigns were canceled. When it came to successful and failed campaign, their graphs were mirror images of one another.
+
+![OutcomeS_vs_Goal](https://user-images.githubusercontent.com/45398344/174148017-99822cb3-edeb-4223-948a-818fee22c7d7.png)
+
+
+
+
