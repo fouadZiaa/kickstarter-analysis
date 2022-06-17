@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 The purpose of this exercise was to analyze the outcomes of starter campaigns in plays category of theaters based on their laucnh dates and fundraising goals. We used various excel techniques such as filtering the data as well as formulas to sort and arrange our data. Once we had the data in the form we wanted, we used pivot tables and charts to get the outcomes we needed.
 
-The countifs() was a bit challengng to apply, but once the syntax of the formula made sense, everything followed smoothly. I did encounter some problems trying to display the line chart for the second part as it needed to be. I am not sure how to chose the x-axis and y-axis variables and labels. 
+The countifs() was a bit challengng to apply, but once the syntax of the formula made sense, everything followed smoothly. I did encounter some problems trying to display the line chart for the second part as it needed to be. I am not sure how to chose the x-axis and y-axis variables and labels. After discussion with a class mate, it was found that chosing the last three columns and using a line graph option over pivot table was the way to go for this.
 
 ## Results - Theater Campaigns
 
@@ -14,8 +14,9 @@ It was observed that most campaigns were launched over the summer months, and st
 ### Outcomes Based on Goals
 We concluded that no capmaigns were canceled. When it came to successful and failed campaign, their graphs were mirror images of one another.
 
-![OutcomeS_vs_Goal](https://user-images.githubusercontent.com/45398344/174148017-99822cb3-edeb-4223-948a-818fee22c7d7.png)
 
+
+![OutcomeS_vs_Goal](https://user-images.githubusercontent.com/45398344/174218530-95f925e7-3396-412f-b76b-9d38db343210.png)
 
 
 
